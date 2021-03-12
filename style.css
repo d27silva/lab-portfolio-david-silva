@@ -1,0 +1,66 @@
+p {
+    font-size: 1.2em;
+    color: #ccc;
+}
+
+li {
+    font-size: 1.2em;
+    color: #ccc;
+}
+
+.resposta{
+    font-size: 1.1em;
+    color: #555;
+    
+}
+
+h1{
+    font-size: 2.8rem; 
+
+}
+
+h2{
+    font-size: 1.8em;    
+    margin-left: 20px;   
+}
+
+h3{
+    color: #ccc;
+    font-size: 1.5em;
+}
+
+h4{
+    color: #666;
+    font-size: 1.3em;
+}
+
+img{
+    width: 100%;
+}
+
+.transparent{
+    opacity: 1.0;
+}
+
+.transparent:hover{
+    opacity: 0.2;   
+}
+
+.transparent2{
+    opacity: 1.0;
+}
+
+.transparent2:hover{
+    opacity: 0.6;   
+}
+
+.row{
+    padding: 0px 0px 0px 0px;
+    margin: 0px auto;
+}
+
+.container{
+    padding: 5px;
+    margin: 0px auto;
+}
+
