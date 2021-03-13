@@ -2,8 +2,6 @@
  <img src="src/cover-git-logo.jpg" alt="Logo cover " />
 </p>
 
-<br>
-
 ## 🚀 Technologies
 
 This project is developed with the following technologies:
