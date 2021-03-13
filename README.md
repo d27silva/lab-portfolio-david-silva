@@ -1,5 +1,5 @@
 <p align="center">
- <img src="src/cover-git-logo.jpg" alt="Logo cover " />
+ <img src="src/cover-git.jpg" alt="Logo cover " />
 </p>
 
 ## 🚀 Technologies
