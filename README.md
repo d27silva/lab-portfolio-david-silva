@@ -6,7 +6,7 @@
 
 This project is developed with the following technologies:
 
-Java Script, HTML and CSS
+Java Script, HTML and Bootstrap.
 
 ## 💻 Project
 
